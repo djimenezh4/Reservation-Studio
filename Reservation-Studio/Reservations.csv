@@ -1,0 +1,4 @@
+Reservation number,Guest's Name,Table number,Number of guests,Date,Time,Status
+#27,Jacob Maxwell,#5,2,3/23/2026,1:00 p.m. - 2:00 p.m.,Seated
+#28,Peter Duffy,#1,6,3/23/2026,2:30 p.m. - 3:30 p.m.,Reserved
+#29,Steve Smith,#2,5,3/23/2026,2:45 p.m. - 4:00 p.m.,Reserved
